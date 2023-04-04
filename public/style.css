@@ -22,3 +22,16 @@
     font-weight: bold;
     font-size: x-large;
 }
+
+.foot {
+    margin-top: 200px;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+.faq {
+    margin-top: 200px;
+}
